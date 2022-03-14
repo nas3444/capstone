@@ -51,7 +51,7 @@ def create_app(test_config=None):
       actors_format = [actor.format() for actor in actors]
       return jsonify({
         "success": True,
-        "actor": actors_format
+        "actors": actors_format
       })
 
     except:
