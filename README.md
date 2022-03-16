@@ -19,7 +19,7 @@
   <a href="#link-application">Application</a> &#xa0; | &#xa0;
   <a href="#key-authentication">Authentication</a> &#xa0; | &#xa0;
   <a href="#globe_with_meridians-api">API</a> &#xa0; | &#xa0;
-  <a href="https://github.com/nas3444" target="_blank">Author</a>
+  <a href="#memo-author">Author</a> &#xa0; 
 </p>
 
 <br>
@@ -273,6 +273,3 @@ Also, a collection of postman with the token included in the project folder with
 
 Made with :heart: by <a href="https://github.com/{{nas3444}}" target="_blank">Noura Sabrah</a>
 
-&#xa0;
-
-<a href="#top">Back to top</a>
