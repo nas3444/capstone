@@ -16,7 +16,9 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="#link-application">Application</a> &#xa0; | &#xa0;
+  <a href="#key-authentication">Authentication</a> &#xa0; | &#xa0;
+  <a href="#globe_with_meridians-api">API</a> &#xa0; | &#xa0;
   <a href="https://github.com/nas3444" target="_blank">Author</a>
 </p>
 
@@ -137,7 +139,7 @@ $ git push heroku master
 # The server will initialize in the Heroku Cloud
 ```
 
-## :link:	Hosted Application
+## :link: Application ##
 
 https://capstone-herokuapp.herokuapp.com/
 
