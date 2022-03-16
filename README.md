@@ -146,7 +146,7 @@ https://capstone-herokuapp.herokuapp.com/
 ## :key: Authentication ##
 
 All tokens for roles are fresh and existed in the config file of the project.
-Also, a collection of postman with the token included in the project folder with a name capstoneherokucollection.json
+Also, a collection of postman with the token included in the project folder with a name capstone_project.postman_collection.json
 
 ## :globe_with_meridians: API ## 
 
